@@ -33,3 +33,5 @@ A powerful voice-enabled AI assistant built using Streamlit, Google Gemini, and 
 - Audio Input	audio-recorder-streamlit
 - Knowledge RAG	FAISS + LangChain document loaders
 - File Parsing	PyPDFLoader
+
+  
